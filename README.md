@@ -1,4 +1,4 @@
-# Group-10-Final-Project
+# The Velociraptors Final Project
 
 ## Group Members:
 Casey Cuprynski - cjc183@pitt.edu
